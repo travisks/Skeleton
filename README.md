@@ -1,5 +1,7 @@
-# [Skeleton](http://getskeleton.com)
-Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
+# [Skeleton](http://getskeleton.com) - CSS GRID + Animations FORK
+Skeleton is a simple, responsive boilerplate to kickstart any responsive project but it has not been updated in several years. As such I've decided to give it a fresh update using CSS Grid and adding some simple UI Animations. This project is being kept private in the meantime while it is being developed. 
+
+Originally created by DHG and updated by Travis KS.
 
 Check out <http://getskeleton.com> for documentation and details.
 
